@@ -5,7 +5,7 @@ title: Mouadh MEKKI's CV
 # Mouadh MEKKI
 Embedded Software Engineer
 
-<div id="Linkedin"><a href="linkedin.com/in/mouadhmekki">mouadhmekki</a></div>
+<div id="Linkedin"><a href="https://linkedin.com/in/mouadhmekki">mouadhmekki</a></div>
 
 ## Currently
 
