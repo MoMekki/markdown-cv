@@ -8,7 +8,6 @@ Embedded Software Engineer
 <div id="Linkedin">
 <a href="linkedin.com/in/mouadhmekki"> mouadhmekki </a>
 </div>
-[Linkedin](linkedin.com/in/mouadhmekki)
 
 ## Currently
 
@@ -26,7 +25,7 @@ C/C++ programming for embedded Linux systems
 ## Education
 
 `2011-2015`
-__ENIT__
+__ENIT__, Tunisia
 
 ## Occupation
 
