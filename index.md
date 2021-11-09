@@ -3,13 +3,12 @@ layout: cv
 title: Mouadh MEKKI's CV
 ---
 # Mouadh MEKKI
-Electric, Electronic and Software Engineer
 Embedded Software Engineer
 
 <div id="Linkedin">
-<a href="linkedin.com/in/mouadhmekki">mouadhmekki</a>
+<a href="linkedin.com/in/mouadhmekki"> mouadhmekki </a>
 </div>
-
+[Linkedin](linkedin.com/in/mouadhmekki)
 
 ## Currently
 
